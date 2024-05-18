@@ -1,4 +1,4 @@
-![logo](https://github.com/KarekarAnup/KarekarAnup/blob/main/Dark%20Red%20White%20Black%20Digital%20Nomad%20%20YouTube%20Banner_20240517_202937_0000.png)
+![logo](https://github.com/KarekarAnup/KarekarAnup/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner_20240518_112109_0000.png)
 <h1 align="center">Hi 👋, I'm Anup Karekar</h1>
 <h3 align="center">Passionate about open-source astronomy research.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
